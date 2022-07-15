@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestUi</string>
+    <string name="app_header">Xtreme Recargas</string>
+    <string name="text_user">Usuario</string>
+    <string name="btn_login">Ingresar</string>
+    <string name="checkbox_pass">Guardar contraseña</string>
+</resources>
